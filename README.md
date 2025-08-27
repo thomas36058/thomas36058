@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I’m Thomas! :brazil:
 
-<!--
-**thomas36058/thomas36058** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer with a passion for building large, impactful applications and websites.
 
-Here are some ideas to get you started:
+## 👨‍💻 What I Do
+- Frontend development with **React.js** & **TypeScript**
+- Extensive experience with **WordPress** (got a question? Ask away!)
+- Dedicated to crafting robust, scalable web solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Fun Facts
+- 🏓 Lifelong Table Tennis player
+- 🌍 Geography geek — I love exploring facts, curious places, and countries around the globe
+
+## 🌐 Let’s Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/thomasdegrava)
