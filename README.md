@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Thomas! :brazil:
 
-I'm a Software Engineer with a passion for building large, impactful applications and websites.
+I'm a Software Engineer making ideas that actually help.
 
 ## 👨‍💻 What I Do
 - Frontend development with **React.js** & **TypeScript**
