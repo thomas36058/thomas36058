@@ -8,7 +8,7 @@ I'm a Software Engineer making ideas that actually help.
 - Dedicated to crafting robust, scalable web solutions
 
 ## ⚡ Fun Facts
-- 🏓 Lifelong Table Tennis player
+- 🏓 Table Tennis player
 - 🌍 Geography geek — I love exploring facts, curious places, and countries around the globe
 
 ## 🌐 Let’s Connect
